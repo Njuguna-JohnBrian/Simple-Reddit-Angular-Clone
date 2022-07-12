@@ -15,13 +15,13 @@ export class ArticleComponent implements OnInit {
     this.article = new Article('Angular', 'http://angular.io', 10);
   }
 
-  voteUp() {
-    this.article.votes += 1;
+  voteUp(): boolean {
+    this.article.voteUp();
     // Prevent Event Propagation
     return false;
   }
-  voteDown() {
-    this.article.votes -= 1;
+  voteDown(): boolean {
+    this.article.voteDown();
     // Prevent Event Propagation
     return false;
   }
