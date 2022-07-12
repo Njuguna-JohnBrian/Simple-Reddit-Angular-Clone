@@ -1,27 +1,52 @@
-# AngularReddit
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+# ANGULAR REDDIT CLONE
 
-## Development server
+A Simple Reddit Clone In Angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Acknowledgements
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+ - [Reddit](https://www.reddit.com/)
+ - [Ng Book](https://www.amazon.com/ng-book-Complete-Angular-Nathan-Murray/dp/1985170280)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Deployment
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+To deploy this project run
 
-## Running end-to-end tests
+```bash
+  npm install -g now
+  cd dist/angular-reddit
+  now
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Demo
 
-## Further help
+https://angular-reddit-kdqahbhv4-johnbrian.vercel.app/
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Features
+
+- Basic Angular Application
+- Component Interaction
+- Clean Code 
+- Design Patterns
+- Angular Directives
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at njugunajb96@gmail.com
+
+
+## Screenshots
+
+
+# Tablet
+
+![App on A Tablet](https://raw.githubusercontent.com/Njuguna-JohnBrian/Simple-Reddit-Angular-Clone/master/screens/iPad%20Air.png)
+
+# Phone
+![App on A Phone](https://raw.githubusercontent.com/Njuguna-JohnBrian/Simple-Reddit-Angular-Clone/master/screens/iPhone%2012%20Pro.png)
+
